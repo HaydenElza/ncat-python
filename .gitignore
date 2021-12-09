@@ -1,0 +1,6 @@
+*.pyc
+
+# pytest
+.eggs/
+.pytest_cache/
+*.egg-info
