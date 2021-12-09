@@ -2,9 +2,6 @@
 
 Python Bindings for NGS Coordinate Conversion and Transformation Tool (NCAT).
 
-NCAT: https://geodesy.noaa.gov/NCAT/
-NCAT Web Services Docs: https://geodesy.noaa.gov/web_services/ncat/index.shtml
-
 ## Installation
 
 Install using pip:
@@ -49,3 +46,7 @@ ncat.xyz(x, y, z, in_datum, out_datum, spc_zone=None, utm_zone=None, a=None, inv
 ```python
 ncat.usng(usng, in_datum, out_datum, spc_zone=None, a=None, invf=None, eht=None, in_vert_datum=None, out_vert_datum=None, ortho_ht=None)
 ```
+
+## Resources
+- NCAT: https://geodesy.noaa.gov/NCAT/
+- NCAT Web Services Docs: https://geodesy.noaa.gov/web_services/ncat/index.shtml
