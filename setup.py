@@ -7,7 +7,7 @@ setup(
     description='Python Bindings for NGS Coordinate Conversion and Transformation Tool (NCAT)',
     author='Hayden Elza',
     url='https://github.com/HaydenElza/ncat-python',
-    download_url='https://github.com/HaydenElza/ncat-python/archive/v0.1.0.tar.gz',
+    download_url='https://github.com/HaydenElza/ncat-python/archive/refs/tags/ncat-0.1.0.tar.gz',
     license='MIT',
     install_requires=[],
     setup_requires=['pytest-runner'],
