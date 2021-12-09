@@ -4,7 +4,7 @@ setup(
     name='ncat',
     packages=find_packages(include=['ncat']),
     version='0.1.0',
-    description='Python Bindings for NGS Coordinate Conversion and Transformation Tool (NCAT)',
+    description='Python wrapper for NGS Coordinate Conversion and Transformation Tool (NCAT) API.',
     author='Hayden Elza',
     url='https://github.com/HaydenElza/ncat-python',
     download_url='https://github.com/HaydenElza/ncat-python/archive/refs/tags/ncat-0.1.0.tar.gz',
